@@ -57,6 +57,8 @@ function mostrarValorAlmacen()
         }
     }
 
+    echo "<p> Total valor almacen es: $total </p>";
+
 }
 
 function aplicarDescuentoManga()
@@ -73,5 +75,6 @@ function aplicarDescuentoManga()
 }
 
 ?>
+
 
 
